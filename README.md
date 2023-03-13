@@ -8,3 +8,4 @@ File Name should be Dockerfile
 ### How to build image from Dockerfile
 
 $docker build -t [docker-hub-URL]/[your-username]/[image-name]:[version]
+
